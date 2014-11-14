@@ -5,3 +5,9 @@ table.dates {
 table.dates td {
   text-align: center;
 }
+
+.reveal section img {
+  background: transparent;
+  box-shadow: none;
+  border: 0px;
+}
